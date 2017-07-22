@@ -56,6 +56,7 @@ number = 3 and
       end
       if nextorder == "no"
       end
+    puts "Please Press 5"
     end
   end
 end
