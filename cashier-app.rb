@@ -56,7 +56,7 @@ number = 3 and
       end
       if nextorder == "no"
       end
-    puts "Please Press 5"
+    getPayment
     end
   end
 end
@@ -69,14 +69,15 @@ def getPayment
       $total = -1 * $change
       puts "Insert #{$total} more"
       getPayment
-    elsif $change > 0
+    elsif $change >= 0
       puts "Please get your #{$change} change"
+      puts "Thank you! Have a Nice Day!"
     else
-    end
-
+  end
 end
+
+
 
 system 'cls'
 getHeader
 getOrder
-puts "Thank You. Have a Nice Day!"
