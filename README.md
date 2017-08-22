@@ -13,6 +13,7 @@ The first thing to do is to make sure that you have installed Ruby and a Text Ed
 ### Running the App
 On a Terminal or Powershell run the program by locating the directory of the file and calling "ruby filename.rb"
 
+### How The App Works
 Provides a selection of Menu by the number and once it is selected it will ask for the quantity. It will then show the Total Menu Amount
 and the Total Amount as a whole. The next step is it will ask if you wanted another order and if yes......
 
