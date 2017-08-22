@@ -3,9 +3,9 @@
 This is my first attempt in creating an app in RUBY.
 
 ### Prerequisites
-Ruby 2.4 
-Text Editor (e.g. Atom, Sublime)
-Terminal (for Mac) or Windows Powershell
+- Ruby 2.4 
+- Text Editor (e.g. Atom, Sublime)
+- Terminal (for Mac) or Windows Powershell
 
 ### Installing
 The first thing to do is to make sure that you have installed Ruby and a Text Editor in your system.
